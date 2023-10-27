@@ -1,0 +1,7 @@
+print("/\___/\ ((")
+print("\`@_@'/ ))")
+print("{_:Y:.}_//")
+print("{_}-{_}")
+print("Lubię programować miau!")
+print("Ale nie zdam z fizyki miau")
+print("To może jednak maczek miau")
