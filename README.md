@@ -1,2 +1,2 @@
 # Python
-Python listy 1-20
+Python listy zadań 1-20
